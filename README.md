@@ -32,3 +32,9 @@ ChemDoc AI 是一个面向化学实验室新人、研究生和研发助理的 RA
 ## 简历一句话
 
 独立设计 ChemDoc AI 化学知识库问答助手，完成用户研究、PRD、RAG 产品流程、交互原型、评测集和指标体系设计，重点解决化学文献/SOP 查询低效和 AI 回答不可追溯的问题。
+
+## 在线展示
+
+GitHub Pages 地址：
+
+https://betep114511.github.io/chemdoc-ai/
